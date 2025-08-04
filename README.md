@@ -1,4 +1,4 @@
-# Healthcare Waitlist Analytics 📊
+# Healthcare Waitlist Analytics 
 
 An interactive Power BI dashboard designed to analyze NHS healthcare waitlist data between **2018 and 2021**. This project visualizes key insights across different **age profiles**, **case types** (Outpatient, Day Case, Inpatient), **specialties**, and **time bands**, enabling data-driven decision-making in the healthcare sector.
 
